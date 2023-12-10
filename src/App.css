@@ -1,0 +1,15 @@
+.outer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  z-index: 1;
+}
+
+.individual{
+  padding: 6px;
+}
+
+.innerr{
+  display: flex;
+  flex-direction: row;
+}

@@ -1,0 +1,83 @@
+.card {
+    padding: 18px;
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid rgb(116, 92, 92);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    z-index: 1;
+    margin-right: 10px;
+}
+
+.CAM__photo {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    color: grey;
+    font-weight: 500;
+}
+
+.photo {
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheprint.in%2Fopinion%2Fsome-people-see-more-vivid-mental-images-than-others-test-yourself-here%2F685343%2F&psig=AOvVaw0rZzeZ2XMeqkJ24jM7y_DO&ust=1702223833531000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCLi6mIncgoMDFQAAAAAdAAAAABAE');
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.card__title {
+    font-size: 20px;
+    font: bolder;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+
+.bottom_section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1.5px;
+    padding-left: 8;
+}
+
+
+.symbol {
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid rgba(128, 128, 128, 0.2);
+}
+
+.inner {
+    background-color: rgb(84, 81, 81);
+    padding: 4px;
+    width: 14px;
+    color: white;
+    align-items: center;
+    text-align: center;
+    border-radius: 4px;
+    font-weight: 800;
+}
+
+.abcd {
+    border-radius: 10px;
+    border: 2px solid rgba(128, 128, 128, 0.2);
+}
+
+.request_type {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+    border-radius: 10px;
+    height: 29px;
+}
+
+.something {
+    border-radius: 10px;
+    margin-left: 4px;
+    height: 11px;
+    width: 11px;
+    background-color: grey;
+    margin-right: 5px;
+}

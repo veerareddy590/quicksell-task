@@ -1,0 +1,28 @@
+.nav {
+    height: 20px;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.below {
+    margin: 10px 0 0 10px;
+    background-color: rgb(5, 5, 5);
+    border-radius: 10px;
+    padding: 10px;
+    width: fit-content;
+    border: 2px solid red;
+}
+
+.t{
+    margin-right: 20px;
+}
+
+.subsec{
+    color: wheat;
+    padding: 8px;
+    z-index: 3;
+}
